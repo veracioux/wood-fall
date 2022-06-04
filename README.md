@@ -1,5 +1,7 @@
 # Wood Fall
 
+This is a really old project I made in high school for fun.
+
 **NOTE:** Wood Fall is no longer on Google Play because they have been updating
 their privacy policy and I haven't had the time to keep up. You can download it
 as an APK file in [Releases](https://github.com/HarisGusic/wood-fall/releases).
